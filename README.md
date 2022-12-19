@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phildental
+- 👋 Hi, I’m [@phildental](https://www.linkedin.com/in/felipemarqueseth/)
 
 I am a versatile and multi-disciplinary professional mainly working with technology, innovation, analytics and programming. 
 Challenge and goal-oriented, I generate value with creative approaches for data-driven solutions and information streamlining. 

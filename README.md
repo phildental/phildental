@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [T10](https://www.t10.digital/)
 
-- 🌱 I’m currently learning **Spark & Python**
+- 🌱 I’m currently learning **Spark, SQL ython**
 
 - 💬 Ask me about **dataviz, business metrics and automation**
 

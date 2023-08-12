@@ -3,7 +3,7 @@
 <h3 align="center">I am a versatile and multi-disciplinary professional working with data.</h3>
 <p>&nbsp;<img align="right" width="400" src="https://www.driveniq.com/wp-content/uploads/2021/09/Disen%CC%83o-sin-ti%CC%81tulo.gif" alt="data" /></p>
 
-- 🔭 I’m currently working on [PolicyReporter @ A TrialCard Company]([https://www.policyreporter.com/])
+- 🔭 I’m currently working on [PolicyReporter @ A TrialCard Company](https://www.policyreporter.com/)
 
 - 🌱 I’m currently learning **Spark, LLM & JavaScript**
 

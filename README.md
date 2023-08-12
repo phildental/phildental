@@ -3,11 +3,11 @@
 <h3 align="center">I am a versatile and multi-disciplinary professional working with data.</h3>
 <p>&nbsp;<img align="right" width="400" src="https://www.driveniq.com/wp-content/uploads/2021/09/Disen%CC%83o-sin-ti%CC%81tulo.gif" alt="data" /></p>
 
-- 🔭 I’m currently working on [T10](https://www.t10.digital/)
+- 🔭 I’m currently working on [PolicyReporter @ A TrialCard Company]([https://www.t10.digital/](https://www.policyreporter.com/))
 
-- 🌱 I’m currently learning **Spark, SQL & Python**
+- 🌱 I’m currently learning **Spark, LLM & JavaScript**
 
-- 💬 Ask me about **dataviz, business metrics and automation**
+- 💬 Ask me about **dataviz, data integration and pipelines**
 
 - 📫 How to reach me **felipemarques.eth@outlook.com**
 
